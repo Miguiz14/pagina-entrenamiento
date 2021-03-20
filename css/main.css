@@ -1,0 +1,20 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    margin-top: 75px;
+}
+#testimoniar{
+    background-color: #f1f1f1;
+    padding: 50px 0px 30px 0px;
+    text-align: center;
+    margin-top: 40px;
+}
+footer{
+    background: url(../img/82563ac4b4b6328.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+html {
+    scroll-behavior: smooth;
+}
